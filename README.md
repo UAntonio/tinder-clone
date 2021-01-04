@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is for installing only the client side of the application the server side found at [server](UAntonio/tinderclone_server)
+This is for installing only the client side of the application the server side found at [server](https://github.com/UAntonio/tinderclone_server)
 * npm
   ```sh
   npm install npm@latest -g
